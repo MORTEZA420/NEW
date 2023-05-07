@@ -1,170 +1,30 @@
-⁪⁬⁮⁮⁮⁮ᯓ 𝘽 𝙃 𝙍 ༒︎⁪⁬⁮⁮⁮⁮ ⁪⁬, [16/02/1402 10:56 ق.ظ]
-vmess://eyJhZGQiOiIxMzguMjAxLjkzLjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NjMwYTQxZS04ZGU5LTQ2OWEtYjY4Ni03NTAwYTk2MGFlOTUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDU2IiwicHMiOiJARmFsY29uUG9sVjJyYXlORyB8IDMwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-ایرانسل
+Prham, [16/02/1402 07:52 ب.ظ]
+vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdlci5hcHAtd3BzLnNpdGUiLCJpZCI6IjE4ZjIwZWQyLWRhNTktNDlhNy1mN2VkLTliMTBlNThiNDMyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZWIyIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkBORVRNZWxsaUFudGnwn5GI8J+Pu/CfkYjwn4+72LPYsdmI2LHYrNiv24zYryDYr9in2K7ZhCDahtmG2YTwn6WA4p2kIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-•Proxy & Config•, [16/02/1402 11:16 ق.ظ]
-vless://2d31c324-f780-4d75-888d-c674aaf43aab@zaz.meloser.shop:48477?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88++%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+vmess://eyJhZGQiOiJzdGFyNDcuc3RhcnBpbmc1MS5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImthbWs0Lmlya2Ftay5wdyIsImlkIjoiYmJhNDljZjktN2E0Mi00YmVkLWI5NDAtMDUyMDZjNDVmMzA1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiQE5FVE1lbGxpQW50afCfkYjwn4+78J+RiPCfj7vYs9ix2YjYsdis2K/bjNivINiv2KfYrtmEINqG2YbZhPCfpYDinaQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
-vless://b552a5e5-9e50-473c-e1ae-679cac99c149@zaz.meloser.shop:18353?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+امین متر نیست, [16/02/1402 08:04 ب.ظ]
+https://t.me/proxy?server=188.93.237.97&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
 
-vless://0241783e-e4d8-4316-e970-8ad5c0568d39@zaz.meloser.shop:13876?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+•Proxy & Config•, [16/02/1402 08:05 ب.ظ]
+vless://b7c6a35a-f8f7-441c-e8a2-df1bdeba90bb@v2r.foxnim.info:80?path=%2F%40foxnim&security=none&encryption=none&host=foxnim.cam&type=ws#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 
-•Proxy & Config•, [16/02/1402 11:18 ق.ظ]
-ایرانسل (https://t.me/proxy?server=x---n-----------------------------chetori_____________filterchi.s.hostwww.us&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972)  |
-ایرانسل (https://t.me/proxy?server=149.5.172.230&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972) | ایرانسل (https://t.me/proxy?server=89.36.95.126&port=8443&secret=ee1603010200010001fc030386e24c3add74696C65732E726161682E6972) | ایرانسل (https://t.me/proxy?server=89.36.95.42&port=8080&secret=ee1603010200010001fc030386e24c3add62616c61642e6972) ‌| ایرانسل (https://t.me/proxy?server=x---n-----------------------------chetori_____________filterchi.sd.misecure.com&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972) ‌| ایرانسل (https://t.me/proxy?server=89.36.95.70&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972) | ايرانسل (https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972) | 
-رایتل (https://t.me/proxy?server=50.7.127.174&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972) |
-
-𝑵𝑬𝑮𝑰𝑵, [16/02/1402 11:24 ق.ظ]
-https://t.me/proxy?server=k57.from-mi.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-ایرانسل پر سرعت
-
-•Proxy & Config•, [16/02/1402 11:31 ق.ظ]
-vmess://eyJhZGQiOiJmcmVlLmFudGlwaW5nLmNsaWNrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJCbWkuaXIiLCJpZCI6ImNhMTE2ODQ5LTMxOTUtNDNhNC05NWFlLWExYjQ0ZGMzNTA0YSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ1NDY5IiwicHMiOiJAR3BfcHJveHlfdnBuIPCfkYgg2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJhZnNoYXIuemFuYmlsLW1vLmNmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmci0xLjByZC5uZXQiLCJpZCI6IjRlZGI5NzUwLWU3OTMtMTFlZC1iMzMwLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9lNGpmdzdpNiIsInBvcnQiOiI4MCIsInBzIjoiQEdwX3Byb3h5X3ZwbiDwn5GIINio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxMDQuMjYuMS40OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaDMubWFtYWRjdWN1LmNvbSIsImlkIjoiMTkzNTBkNjQtNjg2OC00YTY0LWU1MDEtOWMwZGY5MDNkNzg4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk1IiwicHMiOiJAR3BfcHJveHlfdnBuIPCfkYgg2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxMzguMjAxLjkzLjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NjMwYTQxZS04ZGU5LTQ2OWEtYjY4Ni03NTAwYTk2MGFlOTUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDU2IiwicHMiOiJAR3BfcHJveHlfdnBuIPCfkYgg2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
 همه اپراتورها
 
-Roxana ;, [16/02/1402 11:32 ق.ظ]
-vmess://eyJhZGQiOiI0NS43NjQuMTMiLCJhaWQiOiIwIiwiaG9zdCI6ImJtaS5pciIsImlkIjoiZGEzODY0MDctZWU2MS00NjMxLWQxMDktYWZlNzBhZjBjZDFjIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTAxOTEiLCJwcyI6Itqp2KfZhtin2YQgOiBAVjJyYXlOR3ZwbmkiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+طاها با فونت قشنگ!, [16/02/1402 08:07 ب.ظ]
+https://t.me/proxy?server=f196.podzone.net&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+ایرانسل وصلم!
 
-Prham, [16/02/1402 11:39 ق.ظ]
-vmess://eyJhZGQiOiJjaGFubmVsLnZwbnByb3NlYy5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzbmFwcC5pciIsImlkIjoiNWM5NzYzZDMtZDQ1Mi00NzA2LWViOTItZjQwMjVjZGQyMDFiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTIzNCIsInBzIjoiQE5FVE1lbGxpQW50afCfkYjwn4+78J+RiPCfj7vYs9ix2YjYsdis2K/bjNivINiv2KfYrtmEINqG2YbZhPCfpYDinaQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+Dariush, [16/02/1402 08:10 ب.ظ]
+https://t.me/proxy?server=v249.from-wy.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
 
-vmess://eyJhZGQiOiIxMDQuMjYuMS40OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaDMubWFtYWRjdWN1LmNvbSIsImlkIjoiMTkzNTBkNjQtNjg2OC00YTY0LWU1MDEtOWMwZGY5MDNkNzg4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk1IiwicHMiOiJATkVUTWVsbGlBbnRp8J+RiPCfj7vwn5GI8J+Pu9iz2LHZiNix2KzYr9uM2K8g2K/Yp9iu2YQg2obZhtmE8J+lgOKdpCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiJmcmVlLmFudGlwaW5nLmNsaWNrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJCbWkuaXIiLCJpZCI6ImNhMTE2ODQ5LTMxOTUtNDNhNC05NWFlLWExYjQ0ZGMzNTA0YSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ1NDY5IiwicHMiOiJATkVUTWVsbGlBbnRp8J+RiPCfj7vwn5GI8J+Pu9iz2LHZiNix2KzYr9uM2K8g2K/Yp9iu2YQg2obZhtmE8J+lgOKdpCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-Erfun, [16/02/1402 11:45 ق.ظ]
-https://t.me/proxy?server=89.36.95.42&port=8080&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
-🟨ایرانسل
-
-𝐛𝐢𝐭𝐚⸚, [16/02/1402 11:56 ق.ظ]
+𝐛𝐢𝐭𝐚⸚, [16/02/1402 08:13 ب.ظ]
 https://t.me/proxy?server=188.93.237.97&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-👎👍؟
 
-•Proxy & Config•, [16/02/1402 11:56 ق.ظ]
-vless://155bdde8-0372-4c04-dca0-de04157d7574@pedaret.vipmodchanel.shop:19634?mode=multi&security=tls&encryption=none&type=grpc&serviceName=&sni=nini.vipmodchanel.shop#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+👍👎؟
 
-همراه اول
-
-𝖒𝖔𝖇𝖎𝖓𝖊𝖑, [16/02/1402 11:58 ق.ظ]
-vmess://eyJhZGQiOiJzNTIuc3RhcnBpbmc1Mi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImthbWs0Lmlya2Ftay5wdyIsImlkIjoiYzkwNTZkYzUtNDI3Mi00ZWY2LWZiYTgtOWQwYmI2Y2ZkMjRmIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjg3MzQiLCJwcyI6IvCflLBAcHJveHlfZ3BfMSDwn5GI2LPYsdmI2LHZh9in24zigIwg2KjbjNi02KrYsSDYr9ixINqv2b4g2K3Ys9mGINio2KjYuduMIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-Erfun, [16/02/1402 12:04 ب.ظ]
-https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
-🟨ایرانسل
-
-٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 12:05 ب.ظ]
-https://t.me/proxy?server=iranicard-0fx110-ir.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
-
-مریم, [16/02/1402 12:05 ب.ظ]
-https://t.me/proxy?server=f33.from-dc.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-•Proxy & Config•, [16/02/1402 12:08 ب.ظ]
-https://t.me/proxy?server=89.36.95.174&port=443&secret=ee2603010200010001fc030386e24c3add76616e2e6e616a7661e2808c2e7961686f6f2e636f6d
-
-همراه اول
-
-•Proxy & Config•, [16/02/1402 12:15 ب.ظ]
-vless://bfed224f-e3d3-4621-a1e5-8b78f96e6294@vip.iRoV2ray.info:2087?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-
-vmess://eyJhZGQiOiIxMzguMjAxLjkzLjE0NyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI1NjMwYTQxZS04ZGU5LTQ2OWEtYjY4Ni03NTAwYTk2MGFlOTUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDU2IiwicHMiOiLwn5ONQEdwX3Byb3h5X3ZwbiDwn5GI2q/YsdmI2Ycg2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-trojan://telegram-id-privatevpns@13.49.74.117:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-
-کانفینگ همراه اول
-
-•Proxy & Config•, [16/02/1402 12:18 ب.ظ]
-https://t.me/proxy?server=iranicard-0fx110-ir.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
-
-https://t.me/proxy?server=198.16.65.102&port=443&secret=ee1603010200010001fc030386e24c3add7961686f6f2e636f6d
-
-https://t.me/proxy?server=BBZZGGKK.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
-
-پروکسی همراه اول
-
-٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 12:19 ب.ظ]
-https://t.me/proxy?server=91.107.180.142&port=443&secret=dd2b7d8b2b561f3771b640f397db8ac28d
-
-Sana, [16/02/1402 12:22 ب.ظ]
-https://t.me/proxy?server=38.60.221.191&port=7695&secret=ee54882e9e1e7d7ff9646914617d37aeae636f6e736f6c652e6c696768746e6f64652e636f6d
-
-https://t.me/proxy?server=38.60.221.191&port=7695&secret=7lSILp4efX_5ZGkUYX03rq5jb25zb2xlLmxpZ2h0bm9kZS5jb20=
-
-تمام اپراتورها
-
-❤️ H❤️, [16/02/1402 12:27 ب.ظ]
-https://t.me/proxy?server=188.93.237.58&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-
-❤️ H❤️, [16/02/1402 12:28 ب.ظ]
-https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-
-گوربه, [16/02/1402 12:31 ب.ظ]
-🔥دوتا سرور اول آپدیت شد🔥
-
-توضیحات:
-- سرور یک: ایرانسل/وای‌فای (همراه‌اول/رایتل تست کنن)
-- سرور دو: ایرانسل/وای‌فای (همراه‌اول/رایتل تست کنن)
-(ظاهرا هر دو سرور همراه اول وصله امتحان کنید)
-
-- سرورای متصل کاکتوس (اعتبار۳۰روز/۱۴خرداد)
-(همراه اول سرورهای کاکتوس تست کنن وصل میشه بطور مثال انگلیس)
-
-Locked 🔒
-Unlocked Key 🔐 1⃣2⃣3⃣4⃣ 1234
-
-emir ✨, [16/02/1402 12:32 ب.ظ]
-vmess://eyJhZGQiOiIxODUuNzIuNDkuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoibW9yZS1pbi1jaGFubmVsLnZwbmV0aS5ncSIsImlkIjoiMWM5OTFlZTYtNmI0Ny00NzVhLTlhOTQtYzIwNzNiYjdjNDNkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2F0YWwuZm9yaXJhbi5ubDo0NDMvb3h1bWYxNlFHbEgyUk5OV1pGciIsInBvcnQiOiI0NDMiLCJwcyI6IvCflLBAdnBuZXRpIPCfkYjYs9ix2YjYsdmH2KfbjOKAjCDYqNuM2LTYqtixIiwic2N5IjoiYXV0byIsInNuaSI6Im1vcmUtaW4tY2hhbm5lbC52cG5ldGkuZ3EiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ایرانسل وصل ✅
-
-٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 12:36 ب.ظ]
-https://t.me/proxy?server=5.78.46.153&port=443&secret=7jMA5UfXYPDjtT60MMhx8TNhcGFyYXQuY29t
-
-٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 12:37 ب.ظ]
-https://t.me/proxy?server=xn-----------chetori____________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
-
-°°~°°, [16/02/1402 12:38 ب.ظ]
-https://t.me/proxy?server=50.7.127.174&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
-
-
-رایتل💜🩷
-
-emir ✨, [16/02/1402 12:43 ب.ظ]
-https://t.me/proxy?server=188.166.82.112&port=443&secret=7s8J5YYVhvOdr-WqHy_58gVhY3RpdmlzaW9uLmNvbQ%3D%3D
-خاموش روشن کنین وصل میش✅
-
-Dariush, [16/02/1402 12:45 ب.ظ]
-https://t.me/proxy?server=v182.from-oh.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-•Proxy & Config•, [16/02/1402 12:47 ب.ظ]
-پروکسی پرسرعت مخصوص دانلود 
-
-https://t.me/proxy?server=hcxdd.uk&port=443&secret=ee32b920dffb51643028e2f6b878d4eac162616c61642e6972
-
-https://t.me/proxy?server=45.143.222.92&port=443&secret=ee32b920dffb51643028e2f6b878d4eac162616c61642e6972
-
-https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-
-https://t.me/proxy?server=xn-------------chetori__________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
-
-https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-
-Da' Ni | دَنی, [16/02/1402 01:00 ب.ظ]
-رایتل و مخابرات حمایت کنین پروف🥲
-
-vmess://eyJhZGQiOiI5MS4xMDcuMTM4LjE4OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxZWU0NWUzNS1hMjU4LTQ5NGUtZGZkNS1lZDg5ZjFlMWE5ZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDMiLCJwcyI6InQubWUvVjJyYWF5X1BsdXPwn5GI8J+Pu9is2YjbjNmGINio2K/ZhyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIzNy4zMi4yOS4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FtazQuaXJrYW1rLnB3IiwiaWQiOiIyOTZkMmU0Yi0yNTI3LTQ0N2YtYmQ0Yy04MjIxZjc4OGE0NTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0MTM3MiIsInBzIjoidC5tZS9WMnJhYXlfUGx1c/CfkYjwn4+72KzZiNuM2YYg2KjYr9mHIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxMDkuMTY5LjIuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjb2RlcGVuLmlvIiwiaWQiOiJmOGZiMTkxYy0xYzkwLTQxZDMtZWQ0Ny1lM2Y5ZDM1ZTE2NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1IiwicHMiOiJ0Lm1lL1YycmFheV9QbHVz8J+RiPCfj7vYrNmI24zZhiDYqNiv2YciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-Neda, [16/02/1402 01:00 ب.ظ]
+Neda, [16/02/1402 08:14 ب.ظ]
 https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
 
 
@@ -182,86 +42,534 @@ https://t.me/proxy?server=188.93.237.110&port=443&secret=eec80ff604fa45408f1d152
 
 ایرانسل وصل
 
-Dariush, [16/02/1402 01:20 ب.ظ]
-https://t.me/proxy?server=f50.from-pr.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+Ht, [16/02/1402 08:35 ب.ظ]
+همراه اول
 
-°°~°°, [16/02/1402 01:22 ب.ظ]
-https://t.me/proxy?server=kinko.from-zzz.com&port=443&secret=ddffbad165de6fcdb5386df1cafddcfed7
+https://t.me/proxy?server=LAKAMWNWNWNW.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 
-𝘿𝙧𝙚𝙖𝙢𝙮 𝙂𝙪𝙮, [16/02/1402 01:23 ب.ظ]
+https://t.me/proxy?server=MSBSBWBJWNWBW.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+
+https://t.me/proxy?server=fjlwgwy.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
+
+https://t.me/proxy?server=spkysom.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
+
+•Proxy & Config•, [16/02/1402 08:37 ب.ظ]
+ایرانسل 
+
+https://t.me/proxy?server=MTN-Irancell.CoM.All-goDlkdsfh-fj-55.mamara-bejoooz-Negahat.info.Simin-Kasi24.co.UK.bravo-com.info.&port=443&secret=ee1603010200010001fc030386e24c3add6b65746161626f6e6c696e652e636f6d
+
+Erfun, [16/02/1402 08:52 ب.ظ]
+https://t.me/proxy?server=ro99.mine.nu&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+لایک کن بقیه ام زود وصل شن ❤️🟨ایرانسل
+
+hosein, [16/02/1402 08:53 ب.ظ]
+vmess://eyJhZGQiOiI5NS4xNzkuMTcxLjIwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkZDFmNmMzMi1lMzFkLTQyODItOGMxZS05ZTlmNTY4NmUwMTMiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDg3IiwicHMiOiJAdnBub2Qg2KzZiNuM2YYiLCJzY3kiOiJhdXRvIiwic25pIjoidTQwODEuc2Flcm9uLWFwcC50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+ایرانسل سرعتی 🚀پینگ 200
+
+𝑵𝑬𝑮𝑰𝑵, [16/02/1402 09:01 ب.ظ]
+vmess://eyJhZGQiOiIxMjguMTQwLjgyLjYxIiwicHMiOiJATlRHcmVlbiDYp9uM2LHYp9mG2LPZhCAiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJzbmkiOiIiLCJwb3J0IjozNDU2LCJ2IjoyLCJob3N0IjoiIiwidGxzIjoiIiwiaWQiOiJlMmIzZWQyOC04NGYzLTRlMzItODAxYi03YzhiM2VjMjQ5YWUiLCJuZXQiOiJ0Y3AiLCJhaWQiOjB9
+
+mohi, [16/02/1402 09:03 ب.ظ]
+https://t.me/proxy?server=188.93.237.58&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+وصل؟✅
+
+°°~°°, [16/02/1402 09:06 ب.ظ]
+https://t.me/proxy?server=vcbngngj.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+
+𝑵𝑬𝑮𝑰𝑵, [16/02/1402 09:10 ب.ظ]
+vmess://eyJhZGQiOiJmcmVlLmFudGlwaW5nLmNsaWNrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJCbWkuaXIiLCJpZCI6ImNhMTE2ODQ5LTMxOTUtNDNhNC05NWFlLWExYjQ0ZGMzNTA0YSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEzODUiLCJwcyI6ImpvaW4gQG1lbGlfcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+Neda, [16/02/1402 09:10 ب.ظ]
+https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+
+
+https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+
+https://t.me/proxy?server=f189.merseine.org&port=443&secret=7tDW4TG62lUR_M6VhN6tvu9rZXRhYWJvbmxpbmUuY29t
+
+
+https://t.me/proxy?server=f189.merseine.org&port=443&secret=7tDW4TG62lUR_M6VhN6tvu9rZXRhYWJvbmxpbmUuY29t
+
+
 https://t.me/proxy?server=188.93.237.110&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
 
-irancell
 
-مریم, [16/02/1402 01:24 ب.ظ]
-پروکسی همراه اول ✔️
+ایرانسل وصل
 
-https://t.me/proxy?server=xn-------------chetori__________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
+٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 09:13 ب.ظ]
+https://t.me/proxy?server=xn--------chetori____________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
 
-پروکسی ایرانسل ✔️ 
-
-https://t.me/proxy?server=188.93.237.58&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-
-mona, [16/02/1402 01:38 ب.ظ]
-vless://5675f2ce-b1c0-46c6-ae3a-03b10a39c353@channelvpnplus100.ddns.net:2096?encryption=none&security=tls&sni=channelvpnplus100.amtizserver.xyz&type=grpc#v2raand%3A%DA%86%D9%86%D9%84%20%D9%85%D8%A7%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%A9%F0%9F%87%AA
-ایرانسل
-
-mona, [16/02/1402 01:39 ب.ظ]
-vless://26e47d6d-9224-44cf-a4e2-53236408da8d@chanel.digitalcity9.sbs:56745?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
-
-همه بجز همراه
-
-mona, [16/02/1402 01:39 ب.ظ]
-https://t.me/proxy?server=k57.from-mi.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-❤️ H❤️, [16/02/1402 01:47 ب.ظ]
-https://t.me/proxy?server=188.93.237.58&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-
-
-ایرانسل پرسرعت
-
-𝓐𝓶𝓲𝓻𝓻𝓮𝔃𝓪 ✨, [16/02/1402 01:54 ب.ظ]
-vless://a3717047-0ac7-49cc-853f-7a3d199134a8@arvancloud.1alphaomega.site:443?encryption=none&security=tls&sni=arvancloud.1alphaomega.site&fp=chrome&type=ws&host=arvancloud.1alphaomega.site&path=%2Fwss37762%3Fed%3D2048#@Amir_138_T
-
-vless://a3717047-0ac7-49cc-853f-7a3d199134a8@arvancloud.1alphaomega.site:443?encryption=none&security=tls&sni=arvancloud.1alphaomega.site&fp=chrome&type=ws&host=arvancloud.1alphaomega.site&path=%2Fwss37762#@Alpha_Omega_Vpn
-
-همه اپراتور ها
-
-Erfun, [16/02/1402 01:54 ب.ظ]
+ડꪖꪑꪖ, [16/02/1402 09:15 ب.ظ]
 https://t.me/proxy?server=188.93.237.110&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-🟨ایرانسل
 
-Dariush, [16/02/1402 01:55 ب.ظ]
-https://t.me/proxy?server=k57.from-mi.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+Connect.
 
-•Proxy & Config•, [16/02/1402 02:12 ب.ظ]
-trojan://telegram-id-directvpn@99.79.129.191:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+•Proxy & Config•, [16/02/1402 09:25 ب.ظ]
+vless://22b0b7ad-a17e-4286-aa27-9d9980b969c9@VIP.iRoV2ray.info:2087?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vless://22b0b7ad-a17e-4286-aa27-9d9980b969c9@VIP.iRoV2ray.info:2087?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vmess://eyJhZGQiOiIxNDMuNDIuNTkuMTUzIiwiYWlkIjoiMCIsImhvc3QiOiJ2YXJ6ZXNoMy5pciIsImlkIjoiYzE5ZTA2MjgtMDU5Mi00MGZkLWY5MWItNDJkZGZiMjRhNDZmIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTUyNzQiLCJwcyI6IvCfk41AR3BfcHJveHlfdnBuIPCfkYjar9ix2YjZhyDaqdin2YbZgduM2q8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 کانفینگ همراه اول
-قطعو وصل کنید
 
-•Proxy & Config•, [16/02/1402 02:13 ب.ظ]
-https://t.me/proxy?server=198.16.65.102&port=443&secret=ee1603010200010001fc030386e24c3add7961686f6f2e636f6d
+°°~°°, [16/02/1402 09:27 ب.ظ]
+https://t.me/proxy?server=xn--------chetori____________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
 
-https://t.me/proxy?server=BBZZGGKK.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+•KITANA•, [16/02/1402 09:34 ب.ظ]
+ایرانسل 
 
-https://t.me/proxy?server=BBZZGGKK.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+https://t.me/proxy?server=37.27.16.169&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972
+
+https://t.me/proxy?server=89.149.200.198&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e6b65746161626f6e6c696e652e636f6d
+
+https://t.me/proxy?server=188.93.237.110&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+
+🖤, [16/02/1402 09:37 ب.ظ]
+https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+ایران
+
+•Proxy & Config•, [16/02/1402 09:40 ب.ظ]
+https://t.me/proxy?server=aumkszm.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
+
+https://t.me/proxy?server=BBBMKAQ.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+
+https://t.me/proxy?server=xn--------chetori____________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
+
+https://t.me/proxy?server=vcbngngj.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+
+https://t.me/proxy?server=yesktjw.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
 
 پروکسی همراه اول
 
-Erfun, [16/02/1402 02:19 ب.ظ]
-https://t.me/proxy?server=r49.mine.nu&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-لایک کن بقیه ام زود وصل شن ❤️
+•Proxy & Config•, [16/02/1402 09:42 ب.ظ]
+trojan://telegram-id-privatevpns@13.37.226.130:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 
-•Proxy & Config•, [16/02/1402 02:25 ب.ظ]
-vless://b552a5e5-9e50-473c-e1ae-679cac99c149@zaz.meloser.shop:18353?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+trojan://telegram-id-directvpn@15.222.64.77:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 
-•Proxy & Config•, [16/02/1402 02:26 ب.ظ]
-vless://6c9399c2-ada3-40f6-fed6-e64abef0b720@16.16.213.37:8443?path=%2F&security=tls&encryption=none&host=cp7.independenttherapeutics.com&type=ws&sni=cp7.independenttherapeutics.com#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+کانفینگ همراه اول
 
-vless://26e47d6d-9224-44cf-a4e2-53236408da8d@167.172.108.240:56745?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+امین متر نیست, [16/02/1402 09:47 ب.ظ]
+https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+ایرانسل ⁦⊙⁠﹏⁠⊙⁩
 
-◔͜͡◔, [16/02/1402 02:29 ب.ظ]
+امین متر نیست, [16/02/1402 09:57 ب.ظ]
+https://t.me/proxy?server=45.156.23.186&port=443&secret=eee72cf91a4fee7902896720b31c3c14e27777772e6972616e656361722e636f6d
+
+﮼بي‌تا, [16/02/1402 09:58 ب.ظ]
+https://t.me/proxy?server=f202.from-tx.com&port=443&secret=7tDW4TG62lUR/M6VhN6tvu9rZXRhYWJvbmxpbmUuY29t
+ایرانسلم بزارین
+
+Neda, [16/02/1402 10:05 ب.ظ]
+https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+
+
+https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+
+https://t.me/proxy?server=f189.merseine.org&port=443&secret=7tDW4TG62lUR_M6VhN6tvu9rZXRhYWJvbmxpbmUuY29t
+
+
+https://t.me/proxy?server=f189.merseine.org&port=443&secret=7tDW4TG62lUR_M6VhN6tvu9rZXRhYWJvbmxpbmUuY29t
+
+
+https://t.me/proxy?server=188.93.237.110&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+
+
+ایرانسل وصل
+
+Sana, [16/02/1402 10:06 ب.ظ]
+https://t.me/proxy?server=188.93.237.58&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+من با این وصلم
+
+•Proxy & Config•, [16/02/1402 10:09 ب.ظ]
+vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@fake.iraniancp.autos:443?path=%2Fhello%3Fed%3D2048&security=reality&encryption=none&pbk=3wjMVUq5pyTwQNj5gvsTubSKgRI9yhF4eA6Pv2T6aTg&fp=firefox&type=http&sni=discord.com&sid=d4dd377e#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+
+همه اپراتورها
+
+Alireza, [16/02/1402 10:11 ب.ظ]
+vless://0bc91971-a0bd-41dc-8861-b0914b42e633@v2r.foxnim.info:80?path=%2F%40foxnim&security=none&encryption=none&host=foxnim.cam&type=ws#%40v2rayng14+++%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7
+
+•Proxy & Config•, [16/02/1402 10:13 ب.ظ]
+vless://0241783e-e4d8-4316-e970-8ad5c0568d39@5.75.208.51:13875?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+
+ایرانسل
+
+Sana, [16/02/1402 10:14 ب.ظ]
+https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+
+
+https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+
+https://t.me/proxy?server=f189.merseine.org&port=443&secret=7tDW4TG62lUR_M6VhN6tvu9rZXRhYWJvbmxpbmUuY29t
+
+
+https://t.me/proxy?server=f189.merseine.org&port=443&secret=7tDW4TG62lUR_M6VhN6tvu9rZXRhYWJvbmxpbmUuY29t
+
+
+https://t.me/proxy?server=188.93.237.110&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+
+
+ایرانسل
+
+Sana, [16/02/1402 10:15 ب.ظ]
+https://t.me/proxy?server=45.143.222.84&port=443&secret=ee32b920dffb51643028e2f6b878d4eac17765622e62616c652e696f
+
+Sana, [16/02/1402 10:15 ب.ظ]
+https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+ایرانسل❤️
+
+•Proxy & Config•, [16/02/1402 10:20 ب.ظ]
+vmess://eyJhZGQiOiI0NS43Ny42Ny43MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MGFmMjM1MC1lYjExLTExZWQtOGM2Yi0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJncnBjIiwicGF0aCI6InZtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IkBHcF9wcm94eV92cG4g8J+RiCDYqNuM2LTYqtixIiwic2N5Ijoibm9uZSIsInNuaSI6ImZyMS5zb2NpZmlsZXMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+
+ایرانسل
+
+Parsa, [16/02/1402 10:24 ب.ظ]
+https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+ایرانسل
+
+ડꪖꪑꪖ, [16/02/1402 10:25 ب.ظ]
+https://t.me/proxy?server=t176.from-pa.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+
+Test
+
+•Proxy & Config•, [16/02/1402 10:25 ب.ظ]
+vless://2e471545-ea1d-44bf-ed43-ca032c40cd7d@VPNBIGBANG.sector.ga:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNBIGBANG @VPNBIGBANG @VPNBIGBANG&sni=vpnbigbang.loveirani.top#%40Gp_proxy_vpn+%F0%9F%91%88
+
+vmess://eyJhZGQiOiIxODguMTIxLjExMi40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibW9pLmlyIiwiaWQiOiIyZGIxODRiNC0yZTE5LTQwODQtYTAwZS1jYTQyMmMyMDYzOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzM5NSIsInBzIjoiQEdwX3Byb3h5X3ZwbiDwn5GIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+vless://1fec736e-7110-4b9f-f9be-a0cbb6df4594@49.13.14.173:49439?mode=gun&security=reality&encryption=none&pbk=OnT2FwjY-pITScMoCCp3Thl1q2gf0CaUgo168bA1zB8&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org#%40Gp_proxy_vpn+%F0%9F%91%88
+
+•Proxy & Config•, [16/02/1402 10:30 ب.ظ]
+vless://1fec736e-7110-4b9f-f9be-a0cbb6df4594@49.13.14.173:49439?mode=gun&security=reality&encryption=none&pbk=OnT2FwjY-pITScMoCCp3Thl1q2gf0CaUgo168bA1zB8&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org#%40Gp_proxy_vpn+%F0%9F%91%88
+
+ایرانسل
+
+٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 10:37 ب.ظ]
+https://t.me/proxy?server=aumkszm.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t دوباره همراه
+
+٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 10:38 ب.ظ]
+https://t.me/proxy?server=xn--------chetori____________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d بازم همراه
+
+٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 10:38 ب.ظ]
+https://t.me/proxy?server=5.78.46.153&port=443&secret=7jMA5UfXYPDjtT60MMhx8TNhcGFyYXQuY29tهمراه
+
+٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 10:38 ب.ظ]
+https://t.me/proxy?server=BBBMKAQ.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D همراه
+
+Da' Ni | دَنی, [16/02/1402 10:40 ب.ظ]
+vmess://eyJhZGQiOiIxMjguMTQwLjkxLjE0NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMjk0YzgwNS0zOGNlLTRmNTgtODNiZi05YWI3NGQyNDA4YTUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM0NTYiLCJwcyI6InQubWUvVjJyYWF5X1BsdXPwn5GI8J+Pu9is2YjbjNmGINio2K/ZhyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMzUuMTI1LjI0Ni4xMDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNvZnQ5OC5pciIsImlkIjoiZTk3NGMxZWYtMDQwMy00MmI3LTkyZWYtYjJkNjFjMDJmMTU2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTEzMjAiLCJwcyI6InQubWUvVjJyYWF5X1BsdXPwn5GI8J+Pu9is2YjbjNmGINio2K/ZhyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMDkuMTY5LjIuMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjb2RlcGVuLmlvIiwiaWQiOiJlZGUxY2IzYy0zZTgzLTQ0MTEtZTg0My0yYjVkYjkzM2YxMzAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMzU2NSIsInBzIjoidC5tZS9WMnJhYXlfUGx1c/CfkYjwn4+72KzZiNuM2YYg2KjYr9mHIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+فقط رایتل تست شده❤️
+
+∆li, [16/02/1402 10:40 ب.ظ]
+https://t.me/proxy?server=45.143.222.92&port=443&secret=ee32b920dffb51643028e2f6b878d4eac162616c61642e6972
+مودم
+
+Erfun, [16/02/1402 10:40 ب.ظ]
+https://t.me/proxy?server=188.93.237.58&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+لایک کن بقیه ام زود وصل شن ❤️🟨ایرانسل
+
+•Proxy & Config•, [16/02/1402 10:42 ب.ظ]
+vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=b2.iraniancp.autos&type=ws#%40Gp_proxy_vpn+%F0%9F%91%88%22
+
+ایرانسل
+
+MaHaN⃤‌, [16/02/1402 10:45 ب.ظ]
+https://t.me/proxy?server=89.36.95.42&port=8080&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+•Proxy & Config•, [16/02/1402 10:48 ب.ظ]
+https://t.me/proxy?server=fjlwgwy.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
+
+https://t.me/proxy?server=cxbgfsr.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+
+https://t.me/proxy?server=vcbngngj.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+
+https://t.me/proxy?server=PPPPAASER.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+
+پروکسی همراه اول
+
+•Proxy & Config•, [16/02/1402 10:51 ب.ظ]
+vmess://eyJhZGQiOiJhZnNoYXIuemFuYmlsLW1vLmNmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmci0xLjByZC5uZXQiLCJpZCI6IjRlZGI5NzUwLWU3OTMtMTFlZC1iMzMwLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9lNGpmdzdpNiIsInBvcnQiOiI4MCIsInBzIjoiQEdwX3Byb3h5X3ZwbiDwn5GIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+•Proxy & Config•, [16/02/1402 10:53 ب.ظ]
+vmess://eyJhZGQiOiIxMDQuMjYuMS40OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaDMubWFtYWRjdWN1LmNvbSIsImlkIjoiMTkzNTBkNjQtNjg2OC00YTY0LWU1MDEtOWMwZGY5MDNkNzg4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk1IiwicHMiOiJAR3BfcHJveHlfdnBuIPCfkYgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+ایرانسل
+
+•Proxy & Config•, [16/02/1402 10:56 ب.ظ]
+vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=b2.iraniancp.autos&type=ws#%D9%85%D8%A7%D8%AF%D8%B1%D8%AA%D9%88+%DA%AF%D8%A7%DB%8C%DB%8C%D8%AF%D9%85+%D8%AE%D8%A7%D9%85%D9%86%D9%87+%D8%A7%DB%8C
+
+ایرانسل
+
+•Proxy & Config•, [16/02/1402 10:59 ب.ظ]
+vless://b552a5e5-9e50-473c-e1ae-679cac99c149@zaz.meloser.shop:18352?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+
+vless://0241783e-e4d8-4316-e970-8ad5c0568d39@zaz.meloser.shop:13875?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+
+•Proxy & Config•, [16/02/1402 11:01 ب.ظ]
+vmess://eyJhZGQiOiIxODguMTIxLjExMi40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibW9pLmlyIiwiaWQiOiIyZGIxODRiNC0yZTE5LTQwODQtYTAwZS1jYTQyMmMyMDYzOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzM5NSIsInBzIjoiQEdwX3Byb3h5X3ZwbiDwn5GIINio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+vless://2d31c324-f780-4d75-888d-c674aaf43aab@zaz.meloser.shop:48476?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+
+•Proxy & Config•, [16/02/1402 11:04 ب.ظ]
+vmess://eyJhZGQiOiIxMDkuMTY5LjIuMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjb2RlcGVuLmlvIiwiaWQiOiJlZGUxY2IzYy0zZTgzLTQ0MTEtZTg0My0yYjVkYjkzM2YxMzAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMzU2NSIsInBzIjoi8J+UsEBHcF9wcm94eV92cG4g8J+RiCDYqNuM2LTYqtixIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+vless://1fec736e-7110-4b9f-f9be-a0cbb6df4594@49.13.14.173:49439?mode=gun&security=reality&encryption=none&pbk=OnT2FwjY-pITScMoCCp3Thl1q2gf0CaUgo168bA1zB8&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+
+•Proxy & Config•, [16/02/1402 11:04 ب.ظ]
+vmess://eyJhZGQiOiJqb2luLWJlZGUudm1lc3NvcmcuZnVuIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImJhM2E4NzFmLTMwOTctNGJkYy1mY2YwLWEwMmU4OTdhZGQxMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfk41AR3BfcHJveHlfdnBuIPCfkYjar9ix2YjZhyDaqdin2YbZgduM2q8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiI5MS4xMDcuMTY3LjIwNSIsImFpZCI6IjAiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiI5NzllMDdjYy1jY2Q4LTQwMTMtYzM1NS0yNmMwYmY5ZTA2NmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfk41AR3BfcHJveHlfdnBuIPCfkYjar9ix2YjZhyDaqdin2YbZgduM2q8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiI5MS4xMDcuMTg1LjE3MCIsImFpZCI6IjAiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiIxYTQzMTE2Yy1lOTA4LTQ1ZGQtZjc0NS1hMDQ4NzBjYTAxNmQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNDcxNCIsInBzIjoi8J+TjUBHcF9wcm94eV92cG4g8J+RiNqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+کانفینگ همراه اول و مودم
+
+•Proxy & Config•, [16/02/1402 11:10 ب.ظ]
+vmess://eyJhZGQiOiI5MS4xMDcuMTY3LjIwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiI5NzllMDdjYy1jY2Q4LTQwMTMtYzM1NS0yNmMwYmY5ZTA2NmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkBHcF9wcm94eV92cG4g8J+RiCDYqNuM2LTYqtixIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+همراه اول مودم
+
+بنيامين, [16/02/1402 11:15 ب.ظ]
+vless://b552a5e5-9e50-473c-e1ae-679cac99c149@zaz.meloser.shop:18352?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%5B%F0%9F%8C%90%5D+%E2%9E%A0+T.me%2FPainB0y
+
+∆li, [16/02/1402 11:16 ب.ظ]
+https://t.me/proxy?server=188.93.237.58&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+مودم
+
+Hael•, [16/02/1402 11:17 ب.ظ]
+https://t.me/proxy?server=f89.from-pr.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+
+✞︎𝔸𝕄𝕐ℝ✞, [16/02/1402 11:29 ب.ظ]
+مرگ بر خامنه‌ای https://t.me/proxy?server=f89.from-pr.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+ی پروکسی همراه لطفا
+
+✞︎𝔸𝕄𝕐ℝ✞, [16/02/1402 11:31 ب.ظ]
+امیدوارم ی روز بیاد تو جایگاه ما تا بفهمه چی میکشیم از دستش
+https://t.me/proxy?server=f89.from-pr.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+حقمون ی اینترنت بی دردسر هم نیس
+
+گوربه, [16/02/1402 11:32 ب.ظ]
+trojan://13c32660-eb66-11ed-a038-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=namasha.com#%40ghalagyann
+
+trojan://586649d0-eb66-11ed-8510-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=namasha.com#%40ghalagyann
+
+trojan://88850150-eb66-11ed-b89b-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=namasha.com#%40ghalagyann
+
+trojan://add20bb0-eb66-11ed-9420-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=namasha.com#%40ghalagyann
+
+trojan://d40d8490-eb66-11ed-8f98-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=namasha.com#%40ghalagyann
+
+trojan://098bc500-eb67-11ed-91be-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=namasha.com#%40ghalagyann
+
+trojan://2b7bf8b0-eb67-11ed-8b2f-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=namasha.com#%40ghalagyann
+
+گوربه, [16/02/1402 11:44 ب.ظ]
+تنظیمات V2RAYNG چک کنید
+Allowed Insecure
+فعال باشه حتما
+وگرنه اینا و اکثر سرورها وصل نمیشه براتون
+
+حتی میتونید رو ✏️ ویرایش کنار سرور بزنید
+آخرین گزینه
+Allowed Insecure
+بزاید رو True وصل میشه
+
+ولی از تنظمیات کلی فعال کنید بهتر دیگه نیمخواد دستی هی فعال کنید
+
+ɴᴇɢᴀʀ, [16/02/1402 11:52 ب.ظ]
+https://t.me/proxy?server=vcfbvngnjgj.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+همراه
+
+∆li, [16/02/1402 11:53 ب.ظ]
+https://t.me/proxy?server=37.27.18.74&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972
+مودم دانلود🔥
+
+•Proxy & Config•, [16/02/1402 11:56 ب.ظ]
+https://t.me/proxy?server=ro99.mine.nu&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+
+ɴᴇɢᴀʀ, [16/02/1402 11:59 ب.ظ]
+https://t.me/proxy?server=Qeminbe.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+
+https://t.me/proxy?server=fjlwgwy.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
+همراه✨
+
+•Proxy & Config•, [17/02/1402 12:21 ق.ظ]
+https://t.me/proxy?server=37.27.18.47&port=443&secret=ee1603010200010001fc030386e24c3add6b65746161626f6e6c696e652e636f6d
+
+ایرانسل
+
+Neda, [17/02/1402 12:31 ق.ظ]
+https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+
+
+https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+
+https://t.me/proxy?server=f189.merseine.org&port=443&secret=7tDW4TG62lUR_M6VhN6tvu9rZXRhYWJvbmxpbmUuY29t
+
+
+https://t.me/proxy?server=f189.merseine.org&port=443&secret=7tDW4TG62lUR_M6VhN6tvu9rZXRhYWJvbmxpbmUuY29t
+
+
+https://t.me/proxy?server=188.93.237.110&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+
+
+ایرانسل وصل
+
+.., [17/02/1402 12:31 ق.ظ]
+vless://b552a5e5-9e50-473c-e1ae-679cac99c149@zaz.meloser.shop:18352?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%5B%F0%9F%8C%90%5D+%E2%9E%A0+T.me%2FPainB0y
+ایرانسل وصله
+
+Erfun, [17/02/1402 12:32 ق.ظ]
+https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+لایک کن بقیه ام زود وصل شن ❤️🟨ایرانسل
+
+̲A̲m̲i̲r̲, [17/02/1402 12:32 ق.ظ]
+vmess://eyJhZGQiOiI5MS4xMDcuMTg1LjE3MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiIxYTQzMTE2Yy1lOTA4LTQ1ZGQtZjc0NS1hMDQ4NzBjYTAxNmQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNDcxNCIsInBzIjoiQEhlYXZlbl9vZmZpY2lpYWwg2KjYsdin24wg2KfYqti12KfZhCDYr9in2KbZhduMINis2YjbjNmGINio2K/ZhyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+همراه اول
+
+•Proxy & Config•, [17/02/1402 12:33 ق.ظ]
+vless://7b9161ad-4f1d-43b4-a532-7e9e3d1c78f3@v2rayorng.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ali.newv2rayfree1.shop#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+
+همه اپراتورها بجز همراه اول
+
+̲A̲m̲i̲r̲, [17/02/1402 12:37 ق.ظ]
+vmess://eyJhZGQiOiJzNi5zdGFycGluZzYuZnVuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1rNC5pcmthbWsucHciLCJpZCI6IjZlMzMxZGFkLTBlMmEtNGUxZi05ZTNmLTIwNzg3NjdlYTM0MSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTQ5IiwicHMiOiJASGVhdmVuX29mZmljaWlhbCDYqNix2KfbjCDYp9iq2LXYp9mEINiv2KfYptmF24wg2KzZiNuM2YYg2KjYr9mHIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+ایرانسل
+
+Prham, [17/02/1402 12:39 ق.ظ]
+vmess://eyJhZGQiOiI5MS4xMDcuMTg1LjE3MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiIxYTQzMTE2Yy1lOTA4LTQ1ZGQtZjc0NS1hMDQ4NzBjYTAxNmQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNDcxNCIsInBzIjoiQE5FVE1lbGxpQW50afCfkYjwn4+78J+RiPCfj7vYs9ix2YjYsdis2K/bjNivINiv2KfYrtmEINqG2YbZhPCfpYDinaQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJzNi5zdGFycGluZzYuZnVuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1rNC5pcmthbWsucHciLCJpZCI6IjZlMzMxZGFkLTBlMmEtNGUxZi05ZTNmLTIwNzg3NjdlYTM0MSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTQ5IiwicHMiOiJATkVUTWVsbGlBbnRp8J+RiPCfj7vwn5GI8J+Pu9iz2LHZiNix2KzYr9uM2K8g2K/Yp9iu2YQg2obZhtmE8J+lgOKdpCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+̲A̲m̲i̲r̲, [17/02/1402 12:41 ق.ظ]
+vmess://eyJhZGQiOiJzdGFyMzkuc3RhcnBpbmcuZnVuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1rNC5pcmthbWsucHciLCJpZCI6IjZlOWJiM2JkLTJiZTEtNDEwYS05MTdmLTAxYTczODBkMDVmYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMxNzgxIiwicHMiOiJASGVhdmVuX29mZmljaWlhbCDYqNix2KfbjCDYp9iq2LXYp9mEINiv2KfYptmF24wg2KzZiNuM2YYg2KjYr9mHIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+همه اپراتور ها
+
+ɴᴇɢᴀʀ, [17/02/1402 12:45 ق.ظ]
+https://t.me/proxy?server=86.107.178.162&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
+همراه🔥
+
+Dariush, [17/02/1402 12:48 ق.ظ]
+https://t.me/proxy?server=v8.from-tx.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+
+⁭⁫⁪⁫⁬, [17/02/1402 12:54 ق.ظ]
+🔸تمام اپراتور ها
+
+
+vmess://eyJhZGQiOiIxODguMTIxLjExMi40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibW9pLmlyIiwiaWQiOiIyZGIxODRiNC0yZTE5LTQwODQtYTAwZS1jYTQyMmMyMDYzOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzM5NSIsInBzIjoi8J+TjUBHcF9wcm94eV92cG4g8J+RiNqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+vless://c61f81e1-7dc4-4c86-e5df-e19f3cc9b52c@38.60.221.118:443?security=reality&encryption=none&pbk=PGG2EYOvsFt2lAQTD7lqHeRxz2KxvllEDKcUrtizPBU&headerType=none&fp=firefox&type=tcp&sni=www.google-analytics.com&sid=017ceaf7#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vless://2e471545-ea1d-44bf-ed43-ca032c40cd7d@VPNBIGBANG.sector.ga:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNBIGBANG @VPNBIGBANG @VPNBIGBANG&sni=vpnbigbang.loveirani.top#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vless://0a10fb0b-8699-40f3-a1df-6abe034e6459@49.13.6.89:556?mode=multi&security=reality&encryption=none&pbk=Oi6Ya5YLhyNXdTyGj24W9gnPswusZ2XEWc8n--_cMQU&fp=randomized&type=grpc&serviceName=@LegenderY_Servers -&sni=eset.com&sid=87cddfb6#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vless://454c21e5-7007-4428-b639-860e8dd2b7e5@49.13.6.89:21594?mode=gun&security=reality&encryption=none&pbk=JMEw9Wi1Ki_v1B4U9c7MP2KHW7afSugHRXNhvC99SDY&fp=chrome&type=grpc&serviceName=&sni=ftp.debian.org#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vless://1fec736e-7110-4b9f-f9be-a0cbb6df4594@49.13.14.173:49439?mode=gun&security=reality&encryption=none&pbk=OnT2FwjY-pITScMoCCp3Thl1q2gf0CaUgo168bA1zB8&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vmess://eyJhZGQiOiJzNi5zdGFycGluZzYuZnVuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1rNC5pcmthbWsucHciLCJpZCI6IjZlMzMxZGFkLTBlMmEtNGUxZi05ZTNmLTIwNzg3NjdlYTM0MSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTQ5IiwicHMiOiLwn5ONQEdwX3Byb3h5X3ZwbiDwn5GI2q/YsdmI2Ycg2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+با صبر و حوصله همشو چند بار تست کنید ♥️
+
+⁭⁫⁪⁫⁬, [17/02/1402 01:09 ق.ظ]
+ایرانسل
+
+vless://5ef4cd97-3f46-456c-acdc-14461108bdd0@mli-vpn.mliserver.fun:29327?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@mli_vpn ساخته شده توسط کانال@mli_vpn ساخته شده توسط کانال&sni=v2ray.sajad10110.fun#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+M@HS@, [17/02/1402 01:11 ق.ظ]
+vmess://eyJ2IjoiMiIsInBzIjoidmlwMDIxMjM1NjEzIiwiYWRkIjoic3Z0NTAuaXJhbjJ2aXAuY29tIiwicG9ydCI6MTIzNSwiaWQiOiJmOWFiZmY4YS04YjBlLTQzZDUtYjQzMi0wM2E0ODQwZmE2NDMiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoibm9uZSJ9
+
+Mahdi😈 khalilzadeh, [17/02/1402 01:11 ق.ظ]
+https://t.me/proxy?server=xn-------chetori____________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
+همراه اول
+
+•Proxy & Config•, [17/02/1402 01:20 ق.ظ]
+🔸تمام اپراتور ها
+پینگ نشون نمیده ولی وصله✅
+
+vmess://eyJhZGQiOiJob3BldjJyYXkuZGRucy5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyLTEuMHJkLm5ldCIsImlkIjoiMzBjMTVlYTAtZWMyNy0xMWVkLWI2MzAtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL0Bob3BldjJyYXkiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5ONQEdwX3Byb3h5X3ZwbiDwn5GI2q/YsdmI2Ycg2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6ImZyLTEuMHJkLm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vless://c5846a30-ec25-11ed-9741-1239d0255272@join.hopev2ray.hopeserver.xyz:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=fr1.socifiles.com#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vmess://eyJhZGQiOiJob3BldjJyYXkyLmRkbnMubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmci0xLjByZC5uZXQiLCJpZCI6IjMwYzE1ZWEwLWVjMjctMTFlZC1iNjMwLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AaG9wZXYycmF5IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+TjUBHcF9wcm94eV92cG4g8J+RiNqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiJmci0xLjByZC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiJqb2luLmhvcGV2MnJheS5ob3Blc2VydmVyLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidWsuMHJkLm5ldCIsImlkIjoiM2M5MGQyMDAtZTllMi0xMWVkLWIwMzgtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL0Bob3BldjJyYXkiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5ONQEdwX3Byb3h5X3ZwbiDwn5GI2q/YsdmI2Ycg2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6InVrLjByZC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiJob3BldjJyYXkuZGRucy5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBsLjByZC5uZXQiLCJpZCI6IjE3YmJiNTkwLWVjMjgtMTFlZC1iMzM0LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AaG9wZXYycmF5IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+TjUBHcF9wcm94eV92cG4g8J+RiNqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiJwbC4wcmQubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJob3BldjJyYXkuZGRucy5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBsLjByZC5uZXQiLCJpZCI6Ijg1NjdjOTcwLWVjMjctMTFlZC1iNDMzLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AaG9wZXYycmF5IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+TjUBHcF9wcm94eV92cG4g8J+RiNqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiJwbC4wcmQubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJob3BldjJyYXkuZGRucy5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyLTEuMHJkLm5ldCIsImlkIjoiMzBjMTVlYTAtZWMyNy0xMWVkLWI2MzAtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL0Bob3BldjJyYXkiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5ONQEdwX3Byb3h5X3ZwbiDwn5GI2q/YsdmI2Ycg2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6ImZyLTEuMHJkLm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJob3BldjJyYXkuZGRucy5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVrLjByZC5uZXQiLCJpZCI6IjAwMjk4ZTkwLWVjMjctMTFlZC1iMjMzLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AaG9wZXYycmF5IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+TjUBHcF9wcm94eV92cG4g8J+RiNqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1ay4wcmQubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vless://152606e0-ec26-11ed-be96-1239d0255272@hopev2ray.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=us1.socifiles.com#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vmess://eyJhZGQiOiJob3BldjJyYXkyLmRkbnMubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1ay4wcmQubmV0IiwiaWQiOiIzYzkwZDIwMC1lOWUyLTExZWQtYjAzOC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQGhvcGV2MnJheSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfk41AR3BfcHJveHlfdnBuIPCfkYjar9ix2YjZhyDaqdin2YbZgduM2q8iLCJzY3kiOiJhdXRvIiwic25pIjoidWsuMHJkLm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+متصل بودنش رو با لایک و دیس لایک نشون بدین🩵
+
+emir ✨, [17/02/1402 01:28 ق.ظ]
+https://t.me/proxy?server=188.166.82.112&port=443&secret=7s8J5YYVhvOdr-WqHy_58gVhY3RpdmlzaW9uLmNvbQ%3D%3D
+
+https://t.me/proxy?server=14.freeproxy.trade&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+
+$EL, [17/02/1402 01:32 ق.ظ]
+https://t.me/proxy?server=x192.freeproxy.trade&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+
+•Proxy & Config•, [17/02/1402 01:37 ق.ظ]
+https://t.me/proxy?server=149.5.172.230&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+•Proxy & Config•, [17/02/1402 01:37 ق.ظ]
+https://t.me/proxy?server=ggebhud.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
+
+•Proxy & Config•, [17/02/1402 01:37 ق.ظ]
+https://t.me/proxy?server=188.93.237.102&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+
+ایرانسل
+
+•Proxy & Config•, [17/02/1402 01:38 ق.ظ]
+https://t.me/proxy?server=45.131.1.99&port=443&secret=ee2670006540000000987000000042003062616c61642e6972
+
+
+https://t.me/proxy?server=Plmsrio.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+
+
+https://t.me/proxy?server=89.36.95.42&port=8080&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+
+ایرانسل 🌱🌱
+
+•Proxy & Config•, [17/02/1402 01:38 ق.ظ]
+https://t.me/proxy?server=xn-------chetori____________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
+
+همراه اول دانلود✅
+
+•Proxy & Config•, [17/02/1402 01:38 ق.ظ]
+vmess://eyJhZGQiOiI5NS4xNzkuMTcxLjIwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkZDFmNmMzMi1lMzFkLTQyODItOGMxZS05ZTlmNTY4NmUwMTMiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDg3IiwicHMiOiLwn5ONQEdwX3Byb3h5X3ZwbiDwn5GI2q/YsdmI2Ycg2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6InU0MDgxLnNhZXJvbi1hcHAudG9wIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiI0NS43Ny42Ny43MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MGFmMjM1MC1lYjExLTExZWQtOGM2Yi0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJncnBjIiwicGF0aCI6InZtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfk41AR3BfcHJveHlfdnBuIPCfkYjar9ix2YjZhyDaqdin2YbZgduM2q8iLCJzY3kiOiJub25lIiwic25pIjoiZnIxLnNvY2lmaWxlcy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+
+امین متر نیست, [17/02/1402 01:53 ق.ظ]
+tg://proxy?server=185.209.31.162&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
+
+◔͜͡◔, [17/02/1402 02:34 ق.ظ]
 🟡 فروش ویژه کانفیگ اختصاصی V2Ray و napsternet:
 
 📍50 gig = 100  [سه کاربره]
@@ -281,248 +589,37 @@ vless://26e47d6d-9224-44cf-a4e2-53236408da8d@167.172.108.240:56745?security=none
 چنل رضایت مشتری 💌
 @Mojo_VPN
 
-امین متر نیست, [16/02/1402 02:30 ب.ظ]
-https://t.me/proxy?server=159.89.111.6&port=5050&secret=7pMigaOFAoG_ETsDSr4NDVJlc2V0LmNvbQ==
+•Proxy & Config•, [17/02/1402 02:35 ق.ظ]
+🔸تمام اپراتور ها نامحدود تا زمانی که فیلتر بشه
 
-Hael•, [16/02/1402 02:42 ب.ظ]
-https://t.me/proxy?server=UUUUUUUUA.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+vless://0241783e-e4d8-4316-e970-8ad5c0568d39@5.75.208.51:13875?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 
-•Proxy & Config•, [16/02/1402 02:45 ب.ظ]
-🟡ایرانسل و مودم
+⁭⁫⁪⁫⁬, [17/02/1402 03:08 ق.ظ]
+🟡ایرانسل و رایتل و مودم
 
-vless://b552a5e5-9e50-473c-e1ae-679cac99c149@zaz.meloser.shop:18353?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+vmess://eyJhZGQiOiIxMDguNjEuMjA4LjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29mdDk4LmlyIiwiaWQiOiIzMTY5NDJlOC01YzExLTQwYzktYmJiOS02OWNhMjE1NzE2NGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1p6blhISmJuYUJvMGU5ajkzIiwicG9ydCI6IjgwIiwicHMiOiLwn5ONQEdwX3Byb3h5X3ZwbiDwn5GI2q/YsdmI2Ycg2qnYp9mG2YHbjNqvIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
-vless://0241783e-e4d8-4316-e970-8ad5c0568d39@zaz.meloser.shop:13876?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+vless://7b9161ad-4f1d-43b4-a532-7e9e3d1c78f3@v2rayorng.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ali.newv2rayfree1.shop#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 
-•Proxy & Config•, [16/02/1402 02:52 ب.ظ]
-✅ Proton_VPN_4.5.56.0.apk
+vless://b552a5e5-9e50-473c-e1ae-679cac99c149@zaz.meloser.shop:18352?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 
-🔘آخرین نسخه فیلترشکن پروتون
+vless://0241783e-e4d8-4316-e970-8ad5c0568d39@zaz.meloser.shop:13875?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 
-♦امکانات:
-🔹سرورهای زیاد از3کشور(هلند،امریکا،ژاپن)
-🔹جز بهترین فیلترشکنهای دنیا
-🔹قابلیت کنترل در تنظیمات سریع اندروید
-🔹دارای پروتکل OpenVPN و IKEv2 wireguard stealth
- (https://t.me/vpn_proxy66/2456)
-♻ پروتکل رو روی steath بزارید نت مخابرات،ایرانسل،رایتل،سامانتل متصله.
+⁭⁫⁪⁫⁬, [17/02/1402 03:09 ق.ظ]
+🟡ایرانسل و همراه اول🔵
 
-♦️آموزش تغییر پروتکل.            #VPN 
+vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@104.18.21.81:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b4.iraniancp.autos&type=ws&sni=iraniancp.autos#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 
-☰ →  Settings → Advanced → Protocol → Stealth.
+•Proxy & Config•, [17/02/1402 10:37 ق.ظ]
+پروکسی های متصل
 
-Dariush, [16/02/1402 02:53 ب.ظ]
-https://t.me/proxy?server=f73.from-tx.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=www.bmi.ir.irancell.ir-ir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7961686f6f2e636f6d) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=www.bmi.ir.irancell.ir-ir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7961686f6f2e636f6d) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=www.bmi.ir.yahoo.com.apibotads.org&port=443&secret=ee1603010200010001fc030386e24c3add7961686f6f2e636f6d)
+𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=cloudflare.com.nokia.nanato.com.ir.co.uk.do_yo.want_to.with.this.www.microsoft.breezy-brnd1.hair.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=mineproxy.co.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_waym.minekelian.co.uk&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=www.bmi.ir.yahoo.com.apibotads.org&port=443&secret=ee1603010200010001fc030386e24c3add7961686f6f2e636f6d)
+𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=cloudflare.com.nokia.nanato.com.ir.co.uk.do_yo.want_to.with.this.ink.international-telecom.ink.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5haQ) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=cloudflare.com.nokia.nanato.com.ir.co.uk.do_yo.want_to.with.this.www.microsoft.breezy-brnd1.hair.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_p_php.notimetodie.mom&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABteS5zaGFwYXJhay5pcg)
+𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=efawfcw.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=haghbezanimco.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_waym.api-botads36.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=minemi.com.nokia.com.co.uk.doo_yo.want_to.clash_with.this.microsoft.com.handthere_is_no.place_like.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_too_fight.with_everyone.i_am.the_internet.special_amzhs.raminjajan.cfd&port=443&secret=7qPKllxoPh2y2IB4KiaYzz5rZXRhYWJvbmxpbmUuY29t)
+𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_p_php.notimetodie.mom&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABteS5zaGFwYXJhay5pcg) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=188.93.237.91&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=bankbezanimco.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_waym.api-botads27.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972)
+𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=188.93.237.97&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=188.93.237.110&port=443&secret=7sgP9gT6RUCPHRUmJNO__PJiYWxhZC5pcg) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=c138.from-tx.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d)
+𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=cloudflare.com.balad.ir.google.com.shaparak.day&port=443&secret=ee32b920dffb51643028e2f6b878d4eac162616c61642e6972) | 𝙋𝙧𝙤𝙭𝙮  (http://t.me/proxy?server=Woonbox-Salvador.Cozhan.www.fendi-berox.monster&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFiYWxhZC5pcg) | 𝙋𝙧𝙤𝙭𝙮 (http://t.me/proxy?server=bermester-Mokano.sofegramon.fendi-berox.monster&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFiYWxhZC5pcg)
 
-𝓐𝓶𝓲𝓻𝓻𝓮𝔃𝓪 ✨, [16/02/1402 02:53 ب.ظ]
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBBbWlyXzEzOF9UIiwNCiAgImFkZCI6ICJhcnZhbmNsb3VkLjFhbHBoYW9tZWdhLnNpdGUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYWU3MzFhODktZTJlOS00MmZiLWNmZjctN2Q3MWY1ODc2MTMxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhcnZhbmNsb3VkLjFhbHBoYW9tZWdhLnNpdGUiLA0KICAicGF0aCI6ICIvd3NzMjY1NDQ/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhcnZhbmNsb3VkLjFhbHBoYW9tZWdhLnNpdGUiLA0KICAiYWxwbiI6ICIiDQp9
-
-٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 03:03 ب.ظ]
-https://t.me/proxy?server=5.78.46.153&port=443&secret=7jMA5UfXYPDjtT60MMhx8TNhcGFyYXQuY29t
-پینگ ۱۲
-
-٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 03:04 ب.ظ]
-https://t.me/proxy?server=iranicard-0fx110-ir.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
-
-٠𝐻𝒶𝓃𝒾𝑒𝒽, [16/02/1402 03:04 ب.ظ]
-https://t.me/proxy?server=5.78.107.110&port=8888&secret=ee1100e547d760f0e3b53eb430c871f100676f6f676c652e636f6d
-
-امین متر نیست, [16/02/1402 03:06 ب.ظ]
-https://t.me/proxy?server=xn-----------------chetori_____filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
-
-•Proxy & Config•, [16/02/1402 03:13 ب.ظ]
-vless://2e471545-ea1d-44bf-ed43-ca032c40cd7d@VPNBIGBANG.sector.ga:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNBIGBANG @VPNBIGBANG @VPNBIGBANG&sni=vpnbigbang.loveirani.top#siamk3i2
-ایرانسل
-
-̲A̲m̲i̲r̲, [16/02/1402 03:15 ب.ظ]
-vmess://eyJhZGQiOiJzbmltY2ljbGltYnZwbi5teXZuYy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCJpZCI6IjEyNThGQzI0LUNBODAtNEExRi1CRkY5LTk3MkFCREY1OTIxNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDQzIiwicHMiOiJASGVhdmVuX29mZmljaWlhbCDYqNix2KfbjCDYp9iq2LXYp9mEINiv2KfYptmF24wg2KzZiNuM2YYg2KjYr9mHIiwic2N5IjoiYXV0byIsInNuaSI6IkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-همراه اول
-
-̲A̲m̲i̲r̲, [16/02/1402 03:17 ب.ظ]
-vmess://eyJhZGQiOiIxMzguMjAxLjkzLjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NjMwYTQxZS04ZGU5LTQ2OWEtYjY4Ni03NTAwYTk2MGFlOTUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDU2IiwicHMiOiJASGVhdmVuX29mZmljaWlhbCDYqNix2KfbjCDYp9iq2LXYp9mEINiv2KfYptmF24wg2KzZiNuM2YYg2KjYr9mHIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-ایرانسل
-
-Dariush, [16/02/1402 03:20 ب.ظ]
-https://t.me/proxy?server=v138.from-tx.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-Hael•, [16/02/1402 03:24 ب.ظ]
-https://t.me/proxy?server=89.36.95.42&port=8080&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
-
-⁭⁫⁪⁫⁬, [16/02/1402 03:26 ب.ظ]
-ایرانسل و رایتل
-
-vless://ca4b56f6-6a06-450d-f52c-c958a6db8f08@LIGHTNING6-joinbed.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6 TEL  @LIGHTNING6 TEL  @LIGHTNING6 TEL  @LIGHTNING6 JOIN @LIGHTNING6 TEL  @LIGHTNING6 JOIN @LIGHTNING6 TEL  @LIGHTNING6 TEL  @LIGHTNING6 JOIN @LIGHTNING6 TEL  @LIGHTNING6&sni=Joinsho.tel-lightning6.top#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-
-⁭⁫⁪⁫⁬, [16/02/1402 03:26 ب.ظ]
-همراه اول و مودم
-
-vless://ca4b56f6-6a06-450d-f52c-c958a6db8f08@LIGHTNING6-joinbede.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6 TEL  @LIGHTNING6 TEL  @LIGHTNING6 TEL  @LIGHTNING6 JOIN @LIGHTNING6 TEL  @LIGHTNING6 JOIN @LIGHTNING6 TEL  @LIGHTNING6 TEL  @LIGHTNING6 JOIN @LIGHTNING6 TEL  @LIGHTNING6&sni=Joinsho.tel-lightning6.top#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-
-Reza, [16/02/1402 03:28 ب.ظ]
-vmess://eyJhZGQiOiJzNTIuc3RhcnBpbmc1Mi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImthbWs0Lmlya2Ftay5wdyIsImlkIjoiYzkwNTZkYzUtNDI3Mi00ZWY2LWZiYTgtOWQwYmI2Y2ZkMjRmIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjg3MzQiLCJwcyI6Itiz2LHZiNixK9mC2YjbjCvYqtixK9io24zYpytAemVkbW9kZW9uK+KaoSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-Hmrah Aval ✅
-Irancell ✅
-
-⁭⁫⁪⁫⁬, [16/02/1402 03:28 ب.ظ]
-🔸تمام اپراتور ها
-
-vmess://eyJhZGQiOiIxODguMTIxLjExMi40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibW9pLmlyIiwiaWQiOiIyZGIxODRiNC0yZTE5LTQwODQtYTAwZS1jYTQyMmMyMDYzOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzM5NSIsInBzIjoi8J+TjUBHcF9wcm94eV92cG4g8J+RiNqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-•Proxy & Config•, [16/02/1402 03:28 ب.ظ]
-vless://4ba8f7af-4dad-4a62-f8a8-4b66696312ff@iran.roshdadcollection.site:33049?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-
-کانفینگ همراه اول
-
-•Proxy & Config•, [16/02/1402 03:32 ب.ظ]
-vmess://eyJhZGQiOiJzdGFyMzkuc3RhcnBpbmcuZnVuIiwiYWlkIjoiMCIsImhvc3QiOiJrYW1rNC5pcmthbWsucHciLCJpZCI6Ijc3YjFlYzY4LTVhYjctNGJmMy04M2M2LTdjYTExMGE4OTVjZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMxNzgxIiwicHMiOiLwn5ONQEdwX3Byb3h5X3ZwbiDwn5GI2q/YsdmI2Ycg2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiJzdGFyNDAuc3RhcnBpbmcxLmZ1biIsImFpZCI6IjAiLCJob3N0Ijoia2FtazQuaXJrYW1rLnB3IiwiaWQiOiI2OTg0ZmFiYS0zODA4LTQzNDItYmU2Yi0xZDBiMWQ4YTRhYTQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMTc4NyIsInBzIjoi8J+TjUBHcF9wcm94eV92cG4g8J+RiNqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJzdGFyMzkuc3RhcnBpbmcuZnVuIiwiYWlkIjoiMCIsImhvc3QiOiJrYW1rNC5pcmthbWsucHciLCJpZCI6ImIxZmNhNmNlLWQzYzAtNDNiNC1lZmVmLTRjZTcxMTM3OWY3YyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMxNzgxIiwicHMiOiLwn5ONQEdwX3Byb3h5X3ZwbiDwn5GI2q/YsdmI2Ycg2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiJzdGFyMzguc3RhcnBpbmc0NS5mdW4iLCJhaWQiOiIwIiwiaG9zdCI6ImthbWs0Lmlya2Ftay5wdyIsImlkIjoiMzhhMWE2ODItNjAxYS00ZWE1LWRlN2MtZjA3MzA2MTkwMDRhIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzAwNDQiLCJwcyI6IvCfk41AR3BfcHJveHlfdnBuIPCfkYjar9ix2YjZhyDaqdin2YbZgduM2q8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-کانفینگ همراه اول
-
-MaHaN⃤‌, [16/02/1402 03:35 ب.ظ]
-https://t.me/proxy?server=89.36.95.42&port=8080&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
-
-•Proxy & Config•, [16/02/1402 03:35 ب.ظ]
-vmess://eyJhZGQiOiJzdGFyMzMuc3RhcnBpbmc0MC5mdW4iLCJhaWQiOiIwIiwiaG9zdCI6ImthbWs0Lmlya2Ftay5wdyIsImlkIjoiNTQ3ZTk3OWItODg0YS00ODZiLWI2YmUtZmNmZWRjYWRkODA1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjczMjkiLCJwcyI6IvCfk41AR3BfcHJveHlfdnBuIPCfkYjar9ix2YjZhyDaqdin2YbZgduM2q8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiJzdGFyNDMuc3RhcnBpbmc0Ny5mdW4iLCJhaWQiOiIwIiwiaG9zdCI6ImthbWs0Lmlya2Ftay5wdyIsImlkIjoiMTZmOTEzMTItZWNhNi00NzZlLWI4ZWMtNzM2MGRjZjgxYTczIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTgzNjciLCJwcyI6IvCfk41AR3BfcHJveHlfdnBuIPCfkYjar9ix2YjZhyDaqdin2YbZgduM2q8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiJzdGFyNDcuc3RhcnBpbmc1MS5mdW4iLCJhaWQiOiIwIiwiaG9zdCI6ImthbWs0Lmlya2Ftay5wdyIsImlkIjoiYmJhNDljZjktN2E0Mi00YmVkLWI5NDAtMDUyMDZjNDVmMzA1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoi8J+TjUBHcF9wcm94eV92cG4g8J+RiNqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-کانفینگ همراه اول
-
-Prham, [16/02/1402 03:37 ب.ظ]
-vmess://eyJhZGQiOiIxODguMTIxLjExMi40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibW9pLmlyIiwiaWQiOiIyZGIxODRiNC0yZTE5LTQwODQtYTAwZS1jYTQyMmMyMDYzOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzM5NSIsInBzIjoiQE5FVE1lbGxpQW50afCfkYjwn4+78J+RiPCfj7vYs9ix2YjYsdis2K/bjNivINiv2KfYrtmEINqG2YbZhPCfpYDinaQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiIxODguMTIxLjExMi40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibW9pLmlyIiwiaWQiOiIyZGIxODRiNC0yZTE5LTQwODQtYTAwZS1jYTQyMmMyMDYzOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzM5NSIsInBzIjoiQE5FVE1lbGxpQW50afCfkYjwn4+78J+RiPCfj7vYs9ix2YjYsdis2K/bjNivINiv2KfYrtmEINqG2YbZhPCfpYDinaQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-•Proxy & Config•, [16/02/1402 03:39 ب.ظ]
-https://t.me/proxy?server=xn----------chetori____________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
-
-https://t.me/proxy?server=BBZZGGKK.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
-
-پروکسی همراه اول
-
-Erfun, [16/02/1402 03:41 ب.ظ]
-https://t.me/proxy?server=71.from-dc.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-لایک کن بقیه ام زود وصل شن ❤️
-
-امین متر نیست, [16/02/1402 03:42 ب.ظ]
-https://t.me/proxy?server=xn----------------chetori_________________________filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
-
-Dariush, [16/02/1402 03:45 ب.ظ]
-https://t.me/proxy?server=f131.from-tx.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-Erfun, [16/02/1402 04:06 ب.ظ]
-https://t.me/proxy?server=188.93.237.58&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-لایک کن بقیه ام زود وصل شن ❤️🟨ایرانسل
-
-•Proxy & Config•, [16/02/1402 04:40 ب.ظ]
-vless://e219ba06-1cb4-4b2a-c972-9326c46fe357@49.12.115.103:19384?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Gp_proxy_vpn+%F0%9F%91%88+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
-
-ایرانسل
-
-Dariush, [16/02/1402 04:41 ب.ظ]
-https://t.me/proxy?server=c19.from-ut.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-•Proxy & Config•, [16/02/1402 04:53 ب.ظ]
-https://t.me/proxy?server=yesktjw.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3ttc24uY29t
-
-https://t.me/proxy?server=LAKAMWNWNWNW.dynu.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
-
-همراه اول
-
-•Proxy & Config•, [16/02/1402 04:58 ب.ظ]
-vless://2c7bdad4-acf0vdj-iRoV2ray@170.114.45.9:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Bmi.ir&sni=vip.v2rayngconfings.info#%F0%9F%93%8D%40Gp_proxy_vpn+%F0%9F%91%88%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-
-کانفینگ همراه اول
-
-emir ✨, [16/02/1402 04:58 ب.ظ]
-https://t.me/proxy?server=ro99.mine.nu&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-https://t.me/proxy?server=r49.mine.nu&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-https://t.me/proxy?server=c19.from-ut.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-tg://proxy?server=45.87.154.242&port=8443&secret=ee839ae2cc64e638590e76559c051c7cbd696d616765732e6170706c652e636f6d20
-
-tg://proxy?server=89.36.95.126&port=8443&secret=ee1603010200010001fc030386e24c3add74696C65732E726161682E6972
-
-tg://proxy?server=103.105.48.7&port=8443&secret=eebf72797e11192fa1abd373f3dc07d656657874656e73696f6e2e64756f6c696e676f2e636f6d
-
-°°~°°, [16/02/1402 05:00 ب.ظ]
-https://t.me/proxy?server=89.36.95.126&port=8443&secret=ee1603010200010001fc030386e24c3add74696C65732E726161682E6972
-
-ایرانسل🧡💛
-
-امین متر نیست, [16/02/1402 05:09 ب.ظ]
-https://t.me/proxy?server=xn-----------------chetori_____filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
-
-Erfun, [16/02/1402 05:13 ب.ظ]
-https://t.me/proxy?server=37.27.20.221&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972
-لایک کن بقیه ام زود وصل شن ❤️🟨ایرانسل
-
-•Proxy & Config•, [16/02/1402 05:21 ب.ظ]
-vmess://eyJhZGQiOiJzdGFyMzguc3RhcnBpbmc0NS5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImthbWs0Lmlya2Ftay5wdyIsImlkIjoiMzhhMWE2ODItNjAxYS00ZWE1LWRlN2MtZjA3MzA2MTkwMDRhIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzAwNDQiLCJwcyI6IkBHcF9wcm94eV92cG4g8J+RiCDYqNuM2LTYqtixIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-ایرانسل
-
-Erfun, [16/02/1402 05:21 ب.ظ]
-https://t.me/proxy?server=ro99.mine.nu&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-لایک کن بقیه ام زود وصل شن ❤️🟨ایرانسل
-
-Dariush, [16/02/1402 05:21 ب.ظ]
-https://t.me/proxy?server=f16.from-tx.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-𝑵𝑬𝑮𝑰𝑵, [16/02/1402 05:22 ب.ظ]
-https://t.me/proxy?server=188.93.237.110&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-
-𝑵𝑬𝑮𝑰𝑵, [16/02/1402 05:26 ب.ظ]
-vless://e219ba06-1cb4-4b2a-c972-9326c46fe357@tay.olemam.shop:19384?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%40Vpnfree85
-
-𝑵𝑬𝑮𝑰𝑵, [16/02/1402 05:31 ب.ظ]
-vmess://eyJhZGQiOiIxMjguMTQwLjkxLjE0NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMjk0YzgwNS0zOGNlLTRmNTgtODNiZi05YWI3NGQyNDA4YTUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM0NTYiLCJwcyI6IkBWcG5mcmVlODUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-F, [16/02/1402 05:36 ب.ظ]
-vless://af745a36-3c86-47f6-93a2-12bb93eee3d4@telegram.itv2ray.shop:11630?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@itv2ray&sni=Telegram.digiv2ray.shop#TEL%3A+%40v2Ray1_ng+Mtn
-
-𝓐𝓶𝓲𝓻𝓻𝓮𝔃𝓪 ✨, [16/02/1402 05:54 ب.ظ]
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBBbWlyXzEzOF9UIiwNCiAgImFkZCI6ICJhcnZhbmNsb3VkLjFhbHBoYW9tZWdhLnNpdGUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYWU3MzFhODktZTJlOS00MmZiLWNmZjctN2Q3MWY1ODc2MTMxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhcnZhbmNsb3VkLjFhbHBoYW9tZWdhLnNpdGUiLA0KICAicGF0aCI6ICIvd3NzMjY1NDQ/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhcnZhbmNsb3VkLjFhbHBoYW9tZWdhLnNpdGUiLA0KICAiYWxwbiI6ICIiDQp9
-
-Arian, [16/02/1402 06:06 ب.ظ]
-https://t.me/proxy?server=37.27.18.134&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972
-
-Dariush, [16/02/1402 06:08 ب.ظ]
-https://t.me/proxy?server=f132.mypets.ws&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
-
-Fereshte, [16/02/1402 06:14 ب.ظ]
-https://t.me/proxy?server=89.36.95.42&port=8080&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
-
-امین متر نیست, [16/02/1402 06:15 ب.ظ]
-https://t.me/proxy?server=xn-----------------chetori_____filterchi.bravooo.homes.&port=443&secret=ee000000000000000000000000000000007961686f6f2e636f6d
-
-•Proxy & Config•, [16/02/1402 06:19 ب.ظ]
-https://t.me/proxy?server=45.143.222.84&port=443&secret=ee32b920dffb51643028e2f6b878d4eac17765622e62616c652e696f
-
-https://t.me/proxy?server=188.93.237.58&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
-
-https://t.me/proxy?server=188.241.219.74&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
-
-https://t.me/proxy?server=89.36.95.126&port=8443&secret=ee1603010200010001fc030386e24c3add74696C65732E726161682E6972
-⁪⁬⁮⁮⁮⁮
-
-ડꪖꪑꪖ, [16/02/1402 06:31 ب.ظ]
-https://t.me/proxy?server=x---n-----------------------------chetori_____________filterchi.s.hostwww.us&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972
-
-vasle?
-
-Dariush, [16/02/1402 06:36 ب.ظ]
-https://t.me/proxy?server=c17.from-dc.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d
+•Proxy & Config•, [17/02/1402 10:41 ق.ظ]
+vmess://eyJhZGQiOiIxMDkuMTY5LjIuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjb2RlcGVuLmlvIiwiaWQiOiJmOGZiMTkxYy0xYzkwLTQxZDMtZWQ0Ny1lM2Y5ZDM1ZTE2NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1IiwicHMiOiJAR3BfcHJveHlfdnBuIPCfkYgg2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
